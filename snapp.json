@@ -1,0 +1,26 @@
+[
+{  
+    "name": "ali",
+    "family":"akbari",
+    "car":"yellow-peguet",
+    "lat" : 47.327558,
+    "lng" : 58.523908
+    
+},
+    {
+    "name":"reza",
+    "family":"amiri",
+    "car":"yellow-samand",
+    "lat" : 48.328558,
+    "lng" : 56.623907
+    
+},
+{
+    "name":"hasan",
+    "family":"yari",
+    "car":"yellow-hiyonda",
+    "lat" : 44.324558,
+    "lng" : 59.678807
+}
+
+]
